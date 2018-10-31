@@ -1,0 +1,9 @@
+'''
+占位符：%d整数
+        %f小数
+        %s字符串
+'''
+name='姜新科'
+age=23
+height=1.68
+print('姓名：%s，年龄：%.0f,身高：%.1f'%(name,age,height))
